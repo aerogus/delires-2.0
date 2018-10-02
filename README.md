@@ -39,8 +39,8 @@ Installer sur chaque poste :
 ## Habillages
 
 sur le site Club-Ados sera affiché l'habillage suivant :
-!(Habillage Club-Ados)(habillage-club-ados.jpg)
+![Habillage Club-Ados](habillage-club-ados.jpg)
 
 sur le site Médiathèque sera affiché l'habillage suivant :
-!(Habillage Médiathèque)(habillage-mediatheque.jpg)
+![Habillage Médiathèque](habillage-mediatheque.jpg)
 
