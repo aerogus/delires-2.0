@@ -1,6 +1,6 @@
-# delires-2.0
+# delires-2.1
 
-Projet de streaming de l'événement Délires 2.0 le samedi 6 octobre 2018 à Villemoisson-sur-Orge
+Projet de streaming de l'événement Délires 2.1 le samedi 5 octobre 2019 à Villemoisson-sur-Orge
 
 ## Présentation
 
